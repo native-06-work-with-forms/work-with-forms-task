@@ -6,8 +6,6 @@ Handling user input, work with forms, Form validation (react hook form, Picker, 
 
 It is application for booking hotel room. User should input his name, email, choose check-in date and check-in date and choose room type. Available room types: **Standard**, **Luxury**, **Family**.
 
-# Example
-
 # Tasks
 
 1. Change the `TextInput`s for dates on `DateTimePicker` from `@react-native-community/datetimepicker`
