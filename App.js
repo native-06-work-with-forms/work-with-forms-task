@@ -6,7 +6,7 @@ import {
   TextInput,
   TouchableOpacity,
 } from "react-native";
-import { sendData } from "./services/sendDate";
+import { sendData } from "./services/sendData";
 
 export default function App() {
   const data = {};
