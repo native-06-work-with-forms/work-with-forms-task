@@ -30,5 +30,5 @@ It is application for booking hotel room. User should input his name, email, cho
 7. **Standard** room type is chosen by default.
 8. Date validation must be running after setting any date or press the button.
    ![](media/date%20validation.gif)
-9. Only if all fields are filled correctly, the function `sendData` from [services](services/sendDate.js) should be called with argument `{userName, email, roomType, checkInDate, checkOutDate}` when the **Submit** button is pressed.
+9. Only if all fields are filled correctly, the function `sendData` from [services](services/sendData.js) should be called with argument `{userName, email, roomType, checkInDate, checkOutDate}` when the **Submit** button is pressed.
    ![](media/correct%20input.gif)
